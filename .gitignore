@@ -1,0 +1,24 @@
+# Built-in Android Studio / IntelliJ files
+*.iml
+.idea/
+.gradle/
+.kotlin/
+/local.properties
+local.properties
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle build cache & outputs
+build/
+app/build/
+
+# Android build artifacts
+*.apk
+*.aab
+*.dex
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
